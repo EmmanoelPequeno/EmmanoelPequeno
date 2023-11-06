@@ -1,6 +1,6 @@
 Hello there 👋
 
-Currently, i'm studyng System Development at Instituto Federal de Alagoas
+Currently, i'm a science and technology student at ilum, the science's Schools of Brazilian Center for Research in Energy and Materials (CNPEM)
 
 <div align="center">
   <a href="https://github.com/EmmanoelPequeno">
